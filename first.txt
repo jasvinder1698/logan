@@ -1,1 +1,23 @@
+I am a current GSoC 2016 participating student. I would recommend you to look at some of the Summer of Code Organizations and look for a project(s that you like and matches your programming language skills. 
+
+- Once you have found some interesting project(s), start looking for what the organization has done so far and see what and how you can improve on their current projects. 
+
+- Download the open-source software that you have chosen to work/contribute from the Organization and start working on the demos (start playing around with it)
+
+- Subscribe to the organization's  mailing list. Join their Google Groups for Development if they have a one. See what the development community is talking about on current issues on development of the project/software. 
+
+- Start reading the documentations and guidelines of their software APIs and published research papers on the project.
+
+- Ask Questions on the mailing lists.
+
+- Answer to the Questions that someone has asked on the mailing list (Be sure that you are correct, If you are not sure about your answers , make sure you mention that " This might be the issue, But I am not 100% sure if it is correct, this is a hint/suggestion " . Be honest. Most importantly be respectful with your answers/comments)
+
+- Try to develop demos or video tutorials of what you know about the project/software, where others can get the benefit out from what you have learned so far.  Share them with the community. 
+
+- Github repositories : Share your projects and demos on your Github account. If you don't have a one, create a free Github account. Be familiar with the Github (How to use the Github). [ Most of the organizations use some sort of "Version Control" , so be familiar with it]
+
+- Keep a "Good Communication" with the Admins of the Organization(s). Show your genuine interest to "Learn-and-Contribute".
+
+- Start drafting your proposal early as possible. Talk with your university faculty professors/mentors and get their opinion on your proposal. Make sure your proposal is going to add a value to the open-source software and to the organization. " Higher the Impact - Better the Project Proposal " (Also be realistic, you need to complete the project during the summer, that means, in 3 months. So make sure what you are proposing is reasonable and durable).
+
 hey man
